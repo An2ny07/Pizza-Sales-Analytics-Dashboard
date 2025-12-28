@@ -50,3 +50,22 @@ To design and develop an interactive Pizza Sales Analytics Dashboard that delive
 - Top 5 Best-Selling Pizzas
 - Bottom 5 Worst-Selling Pizzas
 - Interactive Monthly Date Slicer
+
+## Key Insights Discovered
+- Total Revenue reached ₱817,860
+- Orders peak during Friday and Saturday evenings
+- Classic pizzas contribute the highest sales volume
+- Large-sized pizzas generate the most revenue
+- Several pizza items consistently underperform and may require promotions or menu optimization
+
+## How to Use This Project
+1. Review the SQL queries provided in the repository to understand KPI calculations
+2. Open the Excel dashboard file
+3. Use slicers to filter data by date and period
+4. Explore trends, KPIs, and product performance
+
+## 👤 Author
+Mark Anthony Bulda
+Virtual Assistant | Data Analyst | Data Entry Specialist
+📧 markanthonybulda88@gmail.com
+📧 markanthony.virtualassistant@gmail.com
