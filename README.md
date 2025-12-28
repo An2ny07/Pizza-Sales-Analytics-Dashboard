@@ -39,7 +39,7 @@ To design and develop an interactive Pizza Sales Analytics Dashboard that delive
     - Average Order Value
     - Average Pizzas per Order
 
-## Dashboard Sections
+## Dashboard Overview
 <img width="1650" height="926" alt="image" src="https://github.com/user-attachments/assets/0532f2b8-ee4e-412b-9426-3945ffa50787" />
 
 - KPI Summary (Revenue, Orders, AOV, Total Pizzas Sold)
