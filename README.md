@@ -65,7 +65,7 @@ To design and develop an interactive Pizza Sales Analytics Dashboard that delive
 4. Explore trends, KPIs, and product performance
 
 ## 👤 Author
-Mark Anthony Bulda
+Mark Anthony Bulda <br>
 Virtual Assistant | Data Analyst | Data Entry Specialist <br>
 📧 markanthonybulda88@gmail.com <br>
 📧 markanthony.virtualassistant@gmail.com <br>
