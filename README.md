@@ -1,2 +1,2 @@
 # Pizza-Sales-Analytics-Dashboard
-Interactive Excel dashboard analyzing pizza sales performance, trends, and KPIs to deliver actionable business insights.
+A data analytics portfolio project designed to analyze pizza business performance using historical sales data. This project features a fully interactive Microsoft Excel dashboard that visualizes key sales metrics, order trends, product performance, and customer purchasing behavior. Excel was used for data cleaning, analysis, KPI calculation, and dashboard visualization.
