@@ -40,14 +40,13 @@ To design and develop an interactive Pizza Sales Analytics Dashboard that delive
     - Average Pizzas per Order
 
 ## Dashboard Sections
-<img width="1653" height="933" alt="image" src="https://github.com/user-attachments/assets/d4459cf6-faf2-4344-9b34-ee57defc3405" />
+<img width="1650" height="926" alt="image" src="https://github.com/user-attachments/assets/0532f2b8-ee4e-412b-9426-3945ffa50787" />
 
-
-KPI Summary (Revenue, Orders, AOV, Total Pizzas Sold)
-Daily Order Trend (Sunday–Saturday)
-Hourly Order Trend (9 AM – 11 PM)
-Sales Distribution by Pizza Category
-Sales Distribution by Pizza Size
-Top 5 Best-Selling Pizzas
-Bottom 5 Worst-Selling Pizzas
-Interactive Monthly Date Slicer
+- KPI Summary (Revenue, Orders, AOV, Total Pizzas Sold)
+- Daily Order Trend (Sunday–Saturday)
+- Hourly Order Trend (9 AM – 11 PM)
+- Sales Distribution by Pizza Category
+- Sales Distribution by Pizza Size
+- Top 5 Best-Selling Pizzas
+- Bottom 5 Worst-Selling Pizzas
+- Interactive Monthly Date Slicer
