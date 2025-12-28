@@ -66,6 +66,6 @@ To design and develop an interactive Pizza Sales Analytics Dashboard that delive
 
 ## 👤 Author
 Mark Anthony Bulda
-Virtual Assistant | Data Analyst | Data Entry Specialist
-📧 markanthonybulda88@gmail.com
-📧 markanthony.virtualassistant@gmail.com
+Virtual Assistant | Data Analyst | Data Entry Specialist <br>
+📧 markanthonybulda88@gmail.com <br>
+📧 markanthony.virtualassistant@gmail.com <br>
