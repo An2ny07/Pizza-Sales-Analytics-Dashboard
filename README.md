@@ -42,6 +42,10 @@ To design and develop an interactive Pizza Sales Analytics Dashboard that delive
 ## Dashboard Overview
 <img width="1650" height="926" alt="image" src="https://github.com/user-attachments/assets/0532f2b8-ee4e-412b-9426-3945ffa50787" />
 
+https://github.com/user-attachments/assets/9511ef82-2ce9-4ec7-b840-b15fe5bbba27
+
+
+
 - KPI Summary (Revenue, Orders, AOV, Total Pizzas Sold)
 - Daily Order Trend (Sunday–Saturday)
 - Hourly Order Trend (9 AM – 11 PM)
